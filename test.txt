@@ -1,4 +1,0 @@
-add a new file test.txt
-add some local text
-add some remote text
-
